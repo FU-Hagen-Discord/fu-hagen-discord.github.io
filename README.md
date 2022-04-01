@@ -1,2 +1,2 @@
 # Boty Page
- (About Us)[about.md]
+ [About Us](about.md)
