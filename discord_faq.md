@@ -20,23 +20,7 @@ Discord hat [AGBs](https://discord.com/terms) und eigene [Community Guidelines](
 ## Ästhetik
 **Markdown**
 
-Mit Backticks (\`) vor und nach deinem Code kannst du in hübschen Codeblöcken schreiben.
-
-__Bsp:__
-
-\`\`\`python
-
-print("Hello World")
-
-\`\`\`
-
-⬇️
-
-```python
-print("Hello World")
-```
-
-👉 [Weiteres zu Markdown in Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)  
+Markdown bietet verschiedene Möglichkeiten, die eigene Nachricht zu formatieren. Ein Blick auf den [Artikel](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) von Discord zeigt die alle Möglichkeiten, die aktuell zur Verfügung stehen.
 
 **Emojis**
 
