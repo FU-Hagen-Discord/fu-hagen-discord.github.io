@@ -1,7 +1,7 @@
 # Discord FAQ
 
 ## Grundsätzliches
-:bulb: Anfängerleitfaden (auch für alte Hasen geeignet)
+💡 **Anfängerleitfaden** (auch für alte Hasen geeignet)
 
 __Inhalt__: Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.
 *__Link__: https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden*
@@ -16,17 +16,23 @@ Discord hat __AGBs__ (https://discord.com/terms) und eigene __Community Guidelin
 > **Never download unfamiliar files** from anyone you don't know or trust.
 > Be careful about sharing personal information. Discord is a great way to meet new friends and join new communities, but as with any online interaction, protect yourself by only sharing personal information with people you know and trust.
 
-*__Quelle__: https://discord.com/safety/360044104071-Tips-against-spam-and-hacking *
+*__Quelle__: https://discord.com/safety/360044104071-Tips-against-spam-and-hacking*
 
 ## Ästhetik
 **Markdown**
 
-Mit Backticks (\`) vor und nach deinem Code kannst du in hübschen Codeblöcken schreiben. 
+Mit Backticks (\`) vor und nach deinem Code kannst du in hübschen Codeblöcken schreiben.
+
 __Bsp:__
+
 \`\`\`python
+
 print("Hello World")
+
 \`\`\`
+
 :arrow_down: 
+
 ```python
 print("Hello World")
 ```
