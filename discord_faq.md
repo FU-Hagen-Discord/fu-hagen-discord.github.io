@@ -31,18 +31,18 @@ print("Hello World")
 
 \`\`\`
 
-:arrow_down: 
+⬇️
 
 ```python
 print("Hello World")
 ```
 
-Und es ist nicht alles :pfeil_weiss: https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-.
+👉 [Weiteres zu Markdown in Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)  
 
 **Emojis**
 
 Sie können als Reaktion zu einem Beitrag oder klassisch als Teil einer Nachricht verwendet werden.
-:bulb: Serveremojis könnt ihr innerhalb eines Discordservers analog zu den Standartdiscordemojis verwenden.
+💡 Serveremojis könnt ihr innerhalb eines Discordservers analog zu den Standartdiscordemojis verwenden.
 
 **Server-Boosts & Nitro**
 
@@ -70,4 +70,4 @@ Hier wurde bewusst die Opt-out Variante für die Kurskanäle ausgewählt:
 - andererseits darf so überall mitgelesen und -gelernt werden, einfach aus Interesse und Freude an Bildung.
 
 Um den Überblick zu bewahren, kannst du Kanäle (oder ganze Kategorien) die du nicht benötigst, stummschalten und sie in dem Server-Menü (wenn du auf den Namen oben links klickst) ausblenden. 
--> Anleitung: https://support.discord.com/hc/de/articles/213599277-Wie-verstecke-Ich-stumme-Kanäle-
+-> [Anleitung](https://support.discord.com/hc/de/articles/213599277-Wie-verstecke-Ich-stumme-Kanäle-) 
