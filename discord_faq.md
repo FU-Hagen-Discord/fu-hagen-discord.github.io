@@ -3,12 +3,11 @@
 ## Grundsätzliches
 💡 **Anfängerleitfaden** (auch für alte Hasen geeignet)
 
-__Inhalt__: Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.
-*__Link__: https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden*
+__Inhalt__: [Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.](https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden)
 
 **Discords Regeln**
 
-Discord hat __AGBs__ (https://discord.com/terms) und eigene __Community Guidelines__, die für ihre Nutzerinnen gelten: https://discord.com/guidelines.
+Discord hat [AGBs](https://discord.com/terms) und eigene [Community Guidelines](https://discord.com/guidelines), die für ihre Nutzerinnen gelten.
 
 **Prävention gegen Spam und Hacking**
 
@@ -16,7 +15,7 @@ Discord hat __AGBs__ (https://discord.com/terms) und eigene __Community Guidelin
 > **Never download unfamiliar files** from anyone you don't know or trust.
 > Be careful about sharing personal information. Discord is a great way to meet new friends and join new communities, but as with any online interaction, protect yourself by only sharing personal information with people you know and trust.
 
-*__Quelle__: https://discord.com/safety/360044104071-Tips-against-spam-and-hacking*
+*[Quelle](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)*
 
 ## Ästhetik
 **Markdown**
