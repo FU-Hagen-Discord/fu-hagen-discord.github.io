@@ -18,16 +18,16 @@ Discord hat [AGBs](https://discord.com/terms) und eigene [Community Guidelines](
 *[Quelle](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)*
 
 ## Ästhetik
-**Markdown**
+### Markdown
 
 Markdown bietet verschiedene Möglichkeiten, die eigene Nachricht zu formatieren. Ein Blick auf den [Artikel](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) von Discord zeigt die alle Möglichkeiten, die aktuell zur Verfügung stehen.
 
-**Emojis**
+### Emojis
 
 Sie können als Reaktion zu einem Beitrag oder klassisch als Teil einer Nachricht verwendet werden.
 💡 Serveremojis könnt ihr innerhalb eines Discordservers analog zu den Standartdiscordemojis verwenden.
 
-**Server-Boosts & Nitro**
+### Server-Boosts & Nitro
 
 Nitro ist die Bezahlversion von Discord. Damit gehen u.a. folgende Features einher: 
 - Einstellung eines animiertes Profilbilds, 
@@ -39,14 +39,14 @@ Mehr Infos zu Server-Boots und was weiter Levels für einen Server bedeuten hier
 
 
 ## User experience
-**Shortcuts**
+### Shortcuts
 
 - Liste: `Strg` + `#` (deutsches Tastaturlayout)
-- Channel oder User suchen: `Strg` + `T` 
+- Channel oder User suchen: `Strg` + `K` 
 - Beiträge in einem Channel Suchen: `Strg` + `F`
 - weitere Suchkriterien: https://support.discord.com/hc/de/articles/115000468588-Die-Suche-benutzen
 
-**Channels/ Kategorien stummschalten & ausblenden**
+### Channels/ Kategorien stummschalten & ausblenden
 
 Hier wurde bewusst die Opt-out Variante für die Kurskanäle ausgewählt:
 - einerseits, weil die Anzahl an Kursen die Anzahl an Discord-Rollen unübersichtlich machen würde,
