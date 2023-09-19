@@ -6,9 +6,7 @@
 - [User Experience](#user-experience)
 
 ## Grundsätzliches
-💡 **Anfängerleitfaden** (auch für alte Hasen geeignet)
-
-__Inhalt__: [Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.](https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden)
+[Anfängerleitfaden: Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.](https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden)
 
 ### Discords Regeln
 
