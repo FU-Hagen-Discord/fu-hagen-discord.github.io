@@ -1,15 +1,20 @@
 # Discord FAQ
 
+## Gliederung
+- [Grundsätzliches](#grundsätzliches)
+- [Ästhetik](#ästhetik)
+- [User Experience](#user-experience)
+
 ## Grundsätzliches
 💡 **Anfängerleitfaden** (auch für alte Hasen geeignet)
 
 __Inhalt__: [Was ist ein Server? Wie funktionieren Text- und Sprachkanäle? Uvm.](https://support.discord.com/hc/de/articles/360045138571-Discord-Anfängerleitfaden)
 
-**Discords Regeln**
+### Discords Regeln
 
 Discord hat [AGBs](https://discord.com/terms) und eigene [Community Guidelines](https://discord.com/guidelines), die für ihre Nutzerinnen gelten.
 
-**Prävention gegen Spam und Hacking**
+### Prävention gegen Spam und Hacking
 
 > **Never click on unfamiliar or unexpected links**. If you leave Discord by clicking on a link that takes you elsewhere, it's possible that the external site can access your personal information. We recommend scanning any unfamiliar links through a site checker like Sucuri before clicking on it.
 > **Never download unfamiliar files** from anyone you don't know or trust.
